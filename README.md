@@ -1,2 +1,14 @@
 # SpookyCreepers
-https://proxy.spigotmc.org/ab54abec5200acdd1de71f4ac0bf0a90295f6d4c?url=https%3A%2F%2Fgithub.com%2FCHIKORO%2FZZZZZZZZZZZZZZZZZ%2Fblob%2Fmain%2FSIMPLE-INSTALLION.png%3Fraw%3Dtrue
+Spooky Creepers Custom Mobs [1.8-1.16.x]
+
+Native Minecraft Version: 1.13
+
+Tested Minecraft Versions:
+1.81.91.101.111.121.131.141.151.16
+
+Contributors:CHIKORO
+
+BEST PLUGIN FOR THEME PLANNERS
+Just Drag And Drop In Plugins Folder.
+we are dont take your server resource , this texture pack is ultra light
+
